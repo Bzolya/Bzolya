@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bzolya
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ..
-P.S. Doter
+- 🌱 I’m currently learning ...
+- 🔥 P.S. Doter
 
 
 <!---
