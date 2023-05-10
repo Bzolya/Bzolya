@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Bzolya
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ..
-
-<<<<<<< Обновлено вверх по теч
+P.S. Doter
+<<<<<<< Обновлено вверх по течению
 fsajlkfjsadlkjflkasjlj
 =======
 dfhskajfkakfh
